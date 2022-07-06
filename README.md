@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmelihozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmelihozdemir" /> </p>
 
-- 🌱 I’m currently learning **Javascript**, **Vue JS**, **React JS**
+- 🌱 I’m currently learning **Vue JS**, **React JS**
 
 - 📫 How to reach me **ozdemirmelihahmed@gmail.com**
 
