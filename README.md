@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih ÖZDEMİR</h1>
 <h3 align="center">Electronic and Communication Engineering Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmelihozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmelihozdemir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmelihozdemir&label=Profile%20views&color=8a2be2&style=flat" alt="ahmedmelihozdemir" /> </p>
 
 - 🌱 I’m currently learning **Vue JS**, **React JS**
 
