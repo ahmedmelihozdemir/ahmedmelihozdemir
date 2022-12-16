@@ -15,7 +15,6 @@
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedmelihozdemir&label=Profile%20views&color=B76E79&style=flat" alt="ahmedmelihozdemir" /></p>
 </div>
-<br/><br/>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmelihozdemir&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ahmedmelihozdemir" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmelihozdemir&show_icons=true&theme=tokyonight&locale=en" alt="ahmedmelihozdemir" /></p>
