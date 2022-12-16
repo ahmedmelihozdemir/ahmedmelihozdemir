@@ -13,7 +13,7 @@
 
 ### Profile Status
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmelihozdemir&label=Profile%20views&color=B76E79&style=flat" alt="ahmedmelihozdemir" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedmelihozdemir&label=Profile%20views&color=B76E79&style=flat" alt="ahmedmelihozdemir" /></p>
 </div>
 <br/><br/>
 <div align="center">
