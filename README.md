@@ -2,7 +2,7 @@
 <h3 align="center">I'm Software Developer & Electronic and Communication Engineer</h3>
 
 - 📫Reach me **ozdemirmelihahmed@gmail.com**
-- 📱 Visit my website [Melih Ozdemir !](https://melihozdemir.vercel.app/) 
+- 📱 Visit my website [Melih Ozdemir !]
 
 ## Connect with me  
 <div align="center">
