@@ -2,7 +2,7 @@
 <h3 align="center">I'm Software Developer & Electronic and Communication Engineer</h3>
 
 - 📫Reach me **ozdemirmelihahmed@gmail.com**
-- 📱My side [Melih Ozdemir!](melihozdemir.dev)
+- 📱My side [Melih Özdemir](https://melihozdemir.dev)
 
 ## Connect with me  
 <div align="center">
